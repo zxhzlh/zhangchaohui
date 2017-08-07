@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 sadf
-=======
 ssss
->>>>>>> 9718446bbf167ddcb90b9bcbed683da5bbed5697
+
