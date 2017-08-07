@@ -1,10 +1,9 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-echo 'sss';
+asfdsa
 class Admin extends MY_Controller {
 	public function __construct(){
 		parent::__construct();
-    echo 'sss';
 		$this->load->model('goods_model');
 	}
 	public function main()
