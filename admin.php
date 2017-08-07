@@ -4,6 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Admin extends MY_Controller {
 	public function __construct(){
 		parent::__construct();
+    echo 'sss';
 		$this->load->model('goods_model');
 	}
 	public function main()
