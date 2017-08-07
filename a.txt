@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 zhangxiaohui
 master
 zxh
 zlh
-
-
-=======
 zxhtwo
->>>>>>> zxh
+
