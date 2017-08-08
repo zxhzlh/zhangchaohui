@@ -146,10 +146,11 @@ class Admin extends MY_Controller {
 	public function huazai(){
 	echo 'ceshi1';
 	}
-
-
-function zhangchaohui(){
-echo 'sssssssss';
-}
+  function zhangchaohui(){
+  echo 'sssssssss';
+  }
+  function tomottow(){
+   echo "this is a beautiful"; 
+  }
 
 }
