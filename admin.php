@@ -150,7 +150,7 @@ class Admin extends MY_Controller {
   echo 'sssssssss';
   }
   function tomottow(){
-   echo "this is a beautiful"; 
+   echo "this is a beautiful1"; 
   }
 
 }
