@@ -1,7 +1,5 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-echo "sss";
-echo 'aaaat';
 class Admin extends MY_Controller {
 	public function __construct(){
 		parent::__construct();
@@ -144,4 +142,8 @@ class Admin extends MY_Controller {
 // 	$this->pagination->initialize($pg);
 // 	return $this->pagination->create_links();
 // }
+	public function ceshi(){
+	
+	echo 'ssss';
+	}
 }
