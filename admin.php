@@ -143,13 +143,8 @@ class Admin extends MY_Controller {
 // 	return $this->pagination->create_links();
 // }
 
-	public function huazai(){
-	echo 'ceshi1';
-	}
-
-
 function zhangchaohui(){
-echo 'sssssssss';
+echo 'zhangchaohui';
 }
 
 }
