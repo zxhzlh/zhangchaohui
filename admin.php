@@ -146,11 +146,20 @@ class Admin extends MY_Controller {
 // 	return $this->pagination->create_links();
 // }
 
+
   function zhangchaohui(){
   echo 'sssssssss';
   }
   function tomottow(){
    echo "this is a beautiful991"; 
   }
+
+	public function lishi(){
+	echo 'ceshi2';
+	}
+	public function dada(){
+	echo 'sss2';
+	}
+
 
 }
