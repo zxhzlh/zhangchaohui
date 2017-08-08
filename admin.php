@@ -146,7 +146,7 @@ class Admin extends MY_Controller {
 	echo 'ceshi1';
 	}
 public function aaa(){
-  echo 'aaa1';
+  echo 'aaa555';
 }
 
 	public function ceshi(){
