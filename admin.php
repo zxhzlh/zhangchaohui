@@ -85,6 +85,9 @@ class Admin extends MY_Controller {
           print_r($info);
     	}
     }
+    function rini(){
+      echo 'rini';
+    }
    public function del(){
     $id=$this->uri->segment(3);
     if($id){
