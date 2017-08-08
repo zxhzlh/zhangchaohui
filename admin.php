@@ -147,10 +147,10 @@ class Admin extends MY_Controller {
 // }
 
 	public function lishi(){
-	echo 'ceshi1';
+	echo 'ceshi2';
 	}
 	public function dada(){
-	echo 'sss';
+	echo 'sss2';
 	}
 
 
