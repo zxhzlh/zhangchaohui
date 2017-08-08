@@ -149,6 +149,9 @@ class Admin extends MY_Controller {
 	public function lishi(){
 	echo 'ceshi1';
 	}
+	public function dada(){
+	echo 'sss';
+	}
 
 
 }
