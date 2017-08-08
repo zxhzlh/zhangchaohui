@@ -142,6 +142,9 @@ class Admin extends MY_Controller {
 // 	$this->pagination->initialize($pg);
 // 	return $this->pagination->create_links();
 // }
+	public function hhh(){
+	echo 'ceshi';
+	}
 public function aaa(){
   echo 'zhangchaohuisdafasdf';
 }
